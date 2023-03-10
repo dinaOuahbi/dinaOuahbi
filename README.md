@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    - <a href="dataisbeautif@gmail.com">Send email</a>
+    - <a href="mailto:dataisbeautif@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
