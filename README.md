@@ -1,8 +1,8 @@
 <h3 align="center">Engineer in bioinformatics and biostatistics</h3>
 
-**machine learning for precision oncology**
+**Machine learning for precision oncology**
 
-**statistical analysis in the field of human health (cancer; metabolic diseases ...)**
+**Statistical analysis in the field of human health (cancer; metabolic diseases ...)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
