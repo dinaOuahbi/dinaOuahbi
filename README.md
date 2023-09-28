@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dina Ouahbi</h1>
 <h3 align="center">Engineer in bioinformatics and biostatistics</h3>
 
-- 🔭 I’m currently working on **machine learning for precision oncology**
+**machine learning for precision oncology**
 
-- 👯 I’m looking to collaborate on **statistical analysis in the field of human health (cancer; metabolic diseases ...)**
+**statistical analysis in the field of human health (cancer; metabolic diseases ...)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
