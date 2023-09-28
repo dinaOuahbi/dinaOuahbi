@@ -2,7 +2,7 @@
 
 **Machine learning for precision oncology**
 
-**Statistical analysis in the field of human health (cancer; metabolic diseases ...)**
+**Statistical analysis / Human health**
 
 <p align="left">
 <a href="https://linkedin.com/in/dinaouahbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinaouahbi" height="30" width="40" /></a>
