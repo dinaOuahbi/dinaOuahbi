@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    - <a href="mailto:dina.ouabhi@aphp.fr">Send email</a>
+    <a href="mailto:dina.ouahbi@aphp.fr">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
