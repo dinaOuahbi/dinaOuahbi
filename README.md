@@ -1,7 +1,5 @@
-<h3 align="center">Engineer in bioinformatics and biostatistics</h3>
-
+<h3 align="center">Bioinformatics Engineer</h3>
 **Machine learning for precision oncology**
-
 **Statistical analysis in the field of human health (cancer; metabolic diseases ...)**
 
 <p align="left">
