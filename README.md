@@ -1,5 +1,6 @@
 <h3 align="center">Bioinformatics Engineer</h3>
 **Machine learning for precision oncology**
+
 **Statistical analysis in the field of human health (cancer; metabolic diseases ...)**
 
 <p align="left">
@@ -19,5 +20,4 @@
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
