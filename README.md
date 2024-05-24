@@ -1,5 +1,6 @@
-#### Bio-informaticienne transversal
-#### Python, R, Bash, Java
-##### Analyse transcriptomiques/Analyse d'exomes/Mutation somatiques/Analyse de survie/single cell
-##### Intelligence artificielle (Tensorflow/sklearn)
-##### Développement web (python Flask)
+#### Statistics / Bioinformatics
+#### Python, R
+#### UNIX system (bash cmd/ shell script)
+#### Projects contribution in Kaggle
+##### Bulk RNA seq / Single cell RNAseq Analysis / Survival Analysis / Artificial Intelligence / NGS data analysis
+##### Web devoloppement Python Flask Djongo / Android studio Java 
