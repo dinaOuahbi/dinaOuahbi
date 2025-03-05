@@ -1,6 +1,6 @@
-- Statistics / Bioinformatics
-- Python, R
-- UNIX system (bash cmd/ shell script)
-- Bulk RNA seq / Single cell RNAseq Analysis / Patient Survival / Image classification / NGS data
+- Biostatistics
+- Python, R, Shell
+- UNIX system
+- Bulk & Single cell RNAseq Analysis / survival analysis / machine learning modeling / metagenomics data analysis
 - Web devoloppement Python Flask Djongo / Android studio Java 
-- Projects contribution in Kaggle
+
